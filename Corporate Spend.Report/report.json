@@ -450,6 +450,35 @@
         }
       ],
       "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 3",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSectionc76b15f342f87db780aa",
+      "ordinal": 4,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"85e1136bade2ffe5efaa\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":463.68,\"width\":930.24,\"height\":256.32,\"z\":1}}],\"singleVisual\":{\"visualType\":\"qnaVisual\"}}",
+          "height": 256.32,
+          "width": 930.24,
+          "x": 10.08,
+          "y": 463.68,
+          "z": 1.00
+        },
+        {
+          "config": "{\"name\":\"d17d9aa2f3c1f4c99e34\",\"layouts\":[{\"id\":0,\"position\":{\"x\":10.08,\"y\":0,\"z\":0,\"width\":930.24,\"height\":279.36,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"textbox\",\"objects\":{\"general\":[{\"properties\":{\"paragraphs\":[{\"textRuns\":[{\"value\":\"Adding page 3 to feature dev2\",\"textStyle\":{\"fontWeight\":\"bold\",\"fontSize\":\"44pt\"}}]}]}}]}}}",
+          "filters": "[]",
+          "height": 279.36,
+          "width": 930.24,
+          "x": 10.08,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
+      "width": 1280.00
     }
   ],
   "theme": "Solar"
